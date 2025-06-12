@@ -7,3 +7,29 @@ img {
 #titulo {
   text-align:center
 }
+
+body {
+  background-color: antiquewhite;
+}
+
+footer {
+  background-color: gray;
+  color: white;
+}
+
+#rodape {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: min-content;
+  padding: 10px;
+  text-align: center;
+  }
+
+aside {
+  width: 200px; 
+  float: right; 
+  background-color: #f0f0f0; 
+  padding: 20px; 
+}
